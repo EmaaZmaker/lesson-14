@@ -1,0 +1,13 @@
+import turtle
+turtle.Screen().bgcolor("yellow")
+turtle.Screen().setup(300,400)
+square=turtle.Turtle()
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.done()
